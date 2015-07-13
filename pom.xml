@@ -22,7 +22,7 @@
 	<scm>  
   		<connection>scm:git:https://github.com/douwanglong/beanstalk-pool.git</connection>  
   		<developerConnection>scm:git:git@github.com:douwanglong/beanstalk-pool.git</developerConnection> 
-		<url>https://github.com/douwanglong/beanstalk-pool</url>
+		<url>https://github.com/douwanglong/beanstalk-pool.git</url>
     <tag>HEAD</tag>
   </scm> 
 
